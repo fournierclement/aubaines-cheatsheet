@@ -1,0 +1,69 @@
+.opportunity-list .list-item.Tous {
+  background-color: white;
+}
+
+
+.opportunity-list.Feu {
+  background-color: rgb(255, 150, 150);
+}
+
+.opportunity-list.Eau {
+  background-color: rgb(150, 150, 255);
+}
+
+.opportunity-list.Air {
+  background-color: rgb(200, 200, 200);
+}
+
+.opportunity-list.Terre {
+  background-color: rgb(190, 152, 101);
+}
+
+.opportunity-list.Vide {
+  background-color: white;
+  filter: invert(1);
+}
+
+.opportunity-list .list-item h2 {
+  background-color: rgba(100, 100, 100, 0.3);
+  border-bottom: 1px solid #ccc;
+  /* Ajoute un séparateur sous chaque en-tête de catégorie */
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  position: sticky;
+  top: 0px;
+}
+
+.opportunity-list .list-item h2 {
+  /* Non active */
+  margin-block: 0px;
+}
+
+
+.opportunity-list ul,
+.opportunity-list ul ul {
+  list-style-type: none;
+  /* Retire les puces des listes */
+  padding: 0;
+  /* Retire le padding par défaut */
+  margin: 0;
+  /* Retire la marge par défaut */
+}
+
+.opportunity-list .list-item {
+  margin-bottom: 10px;
+  /* Ajoute un espace entre les catégories */
+}
+
+.opportunity-list .list-item ul li {
+  text-align: justify;
+  padding: 0.4rem;
+  /* Ajoute un espace vertical pour chaque opportunité */
+  border-bottom: 1px solid #eee;
+  /* Ajoute un séparateur entre les opportunités */
+}
+
+.opportunity-list .list-item ul li:last-child {
+  border-bottom: none;
+  /* Retire le séparateur pour le dernier élément */
+}

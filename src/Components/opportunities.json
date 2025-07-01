@@ -1,0 +1,152 @@
+{
+  "Feu": {
+    "Tous": [
+      "⚙️: si vous avez échoué, déterminez la manière la plus facile d’accomplir la tâche entreprise (compétence et approche).",
+      "⚙️+: éliminez 1 point de Conflit gagné à la suite de ce test par ⚙️ ainsi dépensé.",
+      "⚙️⚙️: portez assistance (cf. page 26) au prochain personnage qui entreprend un test similaire."
+    ],
+    "Généraux": [
+      "⚙️: enflammez par votre présence un autre personnage dans la scène, ce qui lui fait subir 2 points de Conflit.",
+      "⚙️+: vous exécutez la tâche de manière très voyante et vous attirez l’attention de tous les observateurs. Plus vous dépensez de ⚙️, plus on vous remarque.",
+      "⚙️⚙️: vous remarquez l’absence flagrante ou l’emplacement incongru d’un élément de la scène sans lien direct avec votre test. Avec l’accord du MJ, vous pouvez indiquer l’absence d’un élément de la scène (comme l’absence d’une paire de chaussures qui indique que l’occupant de la maison n’est pas présent)."
+    ],
+    "Compétences": [
+      "⚙️ artisanal : si vous réussissez, fabriquez une copie supplémentaire de l’objet que vous êtes en train de créer.",
+      "⚙️ savant : extrapolez les motivations ou les désirs d’un autre personnage dans la scène ou dans une perspective plus large.",
+      "⚙️ social : réduisez de 1 le ND du prochain test social effectué par un autre personnage avant la fin de la scène.",
+      "⚙️ professionnel : une inspiration étrange vous saisit ; ajoutez un  gardé affichant ⚙️ au résultat de votre prochain test effectué avec une compétence différente."
+    ],
+    "Temps Morts": [
+      "⚙️+: assistez un autre personnage par ⚙️ dépensé ainsi au cours du prochain test d’activité de temps mort qu’il effectuera pendant cette session.",
+      "⚙️⚙️: stimulez grâce à vos efforts un personnage qui vous accompagne ; celui-ci pourra effectuer une action de temps mort supplémentaire au cours de cette période de temps mort (maximum 2)."
+    ],
+    "Initiative": [
+      "⚙️: lorsque vous effectuez un test d’initiative, évaluez la faiblesse d’un adversaire. Découvrez l’un de ses désavantages, au choix de cet adversaire."
+    ],
+    "Confrontation & Martial": [
+      "⚙️: choisissez un autre personnage présent dans la scène ; augmentez le ND du prochain test qu’il effectue avant le début de votre prochain tour de 1 par ⚙️ dépensé ainsi, à condition que vous ne fassiez pas partie des cibles du test.",
+      "⚙️+: au cours d’un test d’action d’Attaque, augmentez de 1 par ⚙️ dépensé ainsi le ND du prochain test effectué par votre cible pour résister à un coup critique, et ce, avant le début de votre prochain tour.",
+      "⚙️⚙️: les autres personnages doivent subir 2 points de Conflit s’ils veulent vous choisir comme cible de leurs prochaines actions d’Attaque et de Manipulation, et ce, jusqu’au début de votre prochain tour."
+    ]
+  },
+  "Eau": {
+    "Tous": [
+      "⚙️: si vous avez échoué, déterminez la manière la plus facile d’accomplir la tâche entreprise (compétence et approche).",
+      "⚙️+: éliminez 1 point de Conflit gagné à la suite de ce test par ⚙️ ainsi dépensé.",
+      "⚙️⚙️: portez assistance (cf. page 26) au prochain personnage qui entreprend un test similaire."
+    ],
+    "Généraux": [
+      "⚙️: éliminez 2 de vos points de Conflit.",
+      "⚙️+: vous exécutez la tâche de manière très efficace, la terminez plus rapidement et économisez les ressources nécessaires. Plus vous dépensez de ⚙️, plus vous réduisez le temps et les ressources nécessaires.",
+      "⚙️⚙️: vous remarquez un détail physique intéressant de votre environnement sans lien direct avec votre test. Avec l’accord du MJ, vous pouvez ajouter à la scène une portion de terrain (cf. p. 267) ou un objet commun que personne n’avait remarqué jusqu’alors."
+    ],
+    "Compétences": [
+      "⚙️ artisanal : ajoutez un  gardé affichant ⚙️ au résultat de votre prochain test de compétence artisanale effectué avant la fin de la session de jeu.",
+      "⚙️ savant : repérez ou identifiez une propriété, un aspect ou une capacité unique sur quelque chose que vous êtes en train d’identifier.",
+      "⚙️ social : ajoutez un  gardé affichant ⚙️ au résultat de votre prochain test de compétence sociale effectué avant la fin de la scène.",
+      "⚙️ professionnel : convainquez un fournisseur de vous accorder une ristourne supplémentaire de 10 % sur le prix d’un objet que vous êtes en train d’acheter."
+    ],
+    "Temps Morts": [
+      "⚙️+: éliminez 1 point de Conflit ou de Fatigue par ⚙️ dépensé ainsi.",
+      "⚙️⚙️: faites-vous un nouvel ami au cours de votre activité de temps mort."
+    ],
+    "Initiative": [
+      "⚙️: lorsque vous effectuez un test d’initiative, choisissez un désavantage que vous connaissez chez un autre personnage. Il ne s’appliquera pas à ses tests pendant cette scène."
+    ],
+    "Confrontation & Martial": [
+      "⚙️: éliminez 1 point de Fatigue.",
+      "⚙️+: au cours d’un test d’action d’Attaque, ignorez 1 point de Résistance physique de votre cible par ⚙️ ainsi dépensé.",
+      "⚙️⚙️: déplacez-vous de 1 niveau de portée."
+    ]
+  },
+  "Air": {
+    "Tous": [
+      "⚙️: découvrez l’attitude d’un autre personnage (PNJ) dans la scène, ainsi que son nombre actuel de points de Conflit.",
+      "⚙️+: agissez avec subtilité pour attirer le moins d’attention possible sur vos efforts. Les ⚙️ supplémentaires ainsi dépensés rendent votre tentative encore plus subtile.",
+      "⚙️⚙️: vous remarquez un détail intéressant au sujet d’un personnage présent. Avec l’accord du MJ, vous pouvez ajouter un détail auparavant inexistant et lié à un PNJ présent (un avantage ou un désavantage, par exemple)."
+    ],
+    "Généraux": [
+      "⚙️: découvrez l’attitude d’un autre personnage (PNJ) dans la scène, ainsi que son nombre actuel de points de Conflit.",
+      "⚙️+: agissez avec subtilité pour attirer le moins d’attention possible sur vos efforts. Les ⚙️ supplémentaires ainsi dépensés rendent votre tentative encore plus subtile.",
+      "⚙️⚙️: vous remarquez un détail intéressant au sujet d’un personnage présent. Avec l’accord du MJ, vous pouvez ajouter un détail auparavant inexistant et lié à un PNJ présent (un avantage ou un désavantage, par exemple)."
+    ],
+    "Compétences": [
+      "⚙️ artisanal : si vous réussissez, ajoutez la propriété Magnifique ou Subtil à un objet que vous êtes en train d’améliorer.",
+      "⚙️ savant : apprenez quelque chose sur un personnage qui a créé ou utilisé l’objet que vous êtes en train d’étudier (comme un avantage ou un désavantage, au choix du MJ, qui a influencé la création ou l’utilisation de cet objet).",
+      "⚙️ social : découvrez si l’Honneur, la Gloire ou le Statut d’un personnage dans la scène est supérieur, inférieur ou égal au vôtre.",
+      "⚙️ professionnel : convainquez un client de payer 10 % de plus un objet que vous êtes en train de vendre."
+    ],
+    "Temps Morts": [
+      "⚙️+: apprenez un détail sur une personne qui vous accompagne (comme un avantage ou un désavantage au choix de cette personne) par ⚙️ ainsi dépensé. Vous ne pouvez apprendre de la sorte qu’un seul détail à propos de chacune de vos cibles au cours d’une scène de temps mort.",
+      "⚙️⚙️: effectuez votre activité de temps mort sans que la ou les personnes de votre choix ne l’apprennent."
+    ],
+    "Initiative": [
+      "⚙️: lorsque vous effectuez un test d’initiative, utilisez votre Attention à la place de votre Vigilance pour évaluer votre initiative lorsque vous êtes surpris."
+    ],
+    "Confrontation & Martial": [
+      "⚙️: ajoutez un  gardé affichant ⚙️ au résultat de votre prochain test d’Arts martiaux.",
+      "⚙️+: pendant un test d’action de Déplacement, vous pouvez parcourir sur une surface verticale jusqu’à 1 niveau de portée par ⚙️ dépensé ainsi.",
+      "⚙️⚙️: augmentez de 2 le ND du prochain test d’Arts martiaux (distance) qui vous prend pour cible avant le début de votre prochain tour."
+    ]
+  },
+  "Terre": {
+    "Tous": [
+      "⚙️: si vous avez échoué, déterminez la manière la plus facile d’accomplir la tâche entreprise (compétence et approche).",
+      "⚙️+: éliminez 1 point de Conflit gagné à la suite de ce test par ⚙️ ainsi dépensé.",
+      "⚙️⚙️: portez assistance (cf. page 26) au prochain personnage qui entreprend un test similaire."
+    ],
+    "Généraux": [
+      "⚙️: rassurez par votre présence un autre personnage dans la scène, ce qui lui permet d’éliminer 2 points de Conflit.",
+      "⚙️+: vous exécutez la tâche de manière très prudente, maintenez votre équilibre et restez à bonne distance des sources de danger. Plus vous dépensez de ⚙️, plus vous êtes prudent.",
+      "⚙️⚙️: vous vous souvenez soudain d’une information importante, mais sans lien direct avec votre test. Avec l’accord du MJ, vous pouvez avoir effectué une petite action préparatoire au préalable (apporter un outil commun utile pour ce que vous entreprenez, par exemple)."
+    ],
+    "Compétences": [
+      "⚙️ artisanal : si vous réussissez, ajoutez la propriété Solide à un objet que vous êtes en train de restaurer.",
+      "⚙️ savant : rappelez-vous un endroit où vous pouvez effectuer des recherches ou étudier le sujet dont vous tentez de vous souvenir.",
+      "⚙️ social : augmentez de 1 le ND du prochain test de compétence sociale effectué par un autre personnage avant la fin de la scène.",
+      "⚙️ professionnel : réduisez de 1 le ND du prochain test effectué par un autre personnage avec la même compétence avant la fin de la scène."
+    ],
+    "Temps Morts": [
+      "⚙️+: un autre personnage qui vous accompagne élimine 1 point de Conflit ou de Fatigue par ⚙️ ainsi dépensé.",
+      "⚙️⚙️: mémorisez un détail petit mais important grâce à votre activité ; vous pourrez vous en souvenir plus tard sans avoir besoin d’effectuer de test."
+    ],
+    "Initiative": [
+      "⚙️: lorsque vous effectuez un test d’initiative, estimez les propriétés de tous les terrains alentour (cf. page 267)."
+    ],
+    "Confrontation & Martial": [
+      "⚙️: pendant une action de Déplacement, ignorez une propriété du terrain (cf. page 267) de votre choix.",
+      "⚙️+: diminuez la gravité du prochain coup critique que vous subirez avant le début de votre prochain tour de 1 par ⚙️ dépensé ainsi.",
+      "⚙️⚙️: n’appliquez pas l’un de vos désavantages à vos tests jusqu’à la fin de votre prochain tour."
+    ]
+  },
+  "Vide": {
+    "Tous": [
+      "⚙️: si vous avez échoué, déterminez la manière la plus facile d’accomplir la tâche entreprise (compétence et approche).",
+      "⚙️+: éliminez 1 point de Conflit gagné à la suite de ce test par ⚙️ ainsi dépensé.",
+      "⚙️⚙️: portez assistance (cf. page 26) au prochain personnage qui entreprend un test similaire."
+    ],
+    "Généraux": [
+      "⚙️: choisissez un autre anneau que le Vide. Réduisez de 1 le ND de votre prochain test effectué avec cet anneau.",
+      "⚙️+: un frisson vous parcourt ; vous remarquez un silence soudain ou un autre signe de la présence d’un phénomène surnaturel. Plus vous dépensez de ⚙️, plus vous êtes précis quant à la localisation du phénomène.",
+      "⚙️⚙️: vous obtenez une révélation spirituelle sur la nature de l’univers ou de votre âme. Avec l’accord du MJ, vous pouvez révéler un fait inédit au sujet de votre personnage et plus ou moins en lien avec la situation."
+    ],
+    "Compétences": [
+      "⚙️ artisanal : réduisez de 1 le ND du prochain test que vous effectuerez en utilisant l’objet avec lequel vous êtes en train de vous Harmoniser.",
+      "⚙️ savant : devinez si vous pouvez apprendre quelque chose d’important de votre champ de recherche actuel.",
+      "⚙️ social : devinez l’objectif d’un autre personnage dans la scène.",
+      "⚙️ professionnel : réduisez au minimum l’effet que vous produisez sur votre environnement (et les traces physiques de vos efforts)."
+    ],
+    "Temps Morts": [
+      "⚙️+: choisissez autant de dés abandonnés lors du test que de ⚙️ dépensés pour cet effet et réservez-les. Le maximum de dés que vous pouvez réserver de la sorte est égal à votre rang dans la compétence utilisée. Ajoutez ce(s) dé(s) réservé(s) à votre prochain test effectué avec la même compétence ; vous conservez les résultats affichés sans relancer ce(s) dé(s).",
+      "⚙️⚙️: recevez une brève prémonition sur un événement possible pendant que vous effectuez votre activité de temps mort."
+    ],
+    "Initiative": [
+      "⚙️: lorsque vous effectuez un test d’initiative, ressentez si une créature Extérieure est présente au cours de la scène."
+    ],
+    "Confrontation & Martial": [
+      "⚙️: au cours du prochain test d’action d’Attaque que vous effectuez avant la fin de votre prochain tour, ignorez une propriété de terrain (cf. page 267) de votre choix.",
+      "⚙️+: au cours d’un test d’action de Soutien, augmentez votre valeur d’initiative de 1 par ⚙️ dépensé ainsi.",
+      "⚙️⚙️: jusqu’à la fin de votre prochain tour, ignorez les effets d’un état que vous subissez."
+    ]
+  }
+}
