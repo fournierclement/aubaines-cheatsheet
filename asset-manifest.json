@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aubaines-cheatsheet/static/css/main.159f8692.css",
-    "main.js": "/aubaines-cheatsheet/static/js/main.803d397c.js",
+    "main.css": "/aubaines-cheatsheet/static/css/main.53b11500.css",
+    "main.js": "/aubaines-cheatsheet/static/js/main.4a00cb5d.js",
     "static/js/453.babeb743.chunk.js": "/aubaines-cheatsheet/static/js/453.babeb743.chunk.js",
     "index.html": "/aubaines-cheatsheet/index.html",
-    "main.159f8692.css.map": "/aubaines-cheatsheet/static/css/main.159f8692.css.map",
-    "main.803d397c.js.map": "/aubaines-cheatsheet/static/js/main.803d397c.js.map",
+    "main.53b11500.css.map": "/aubaines-cheatsheet/static/css/main.53b11500.css.map",
+    "main.4a00cb5d.js.map": "/aubaines-cheatsheet/static/js/main.4a00cb5d.js.map",
     "453.babeb743.chunk.js.map": "/aubaines-cheatsheet/static/js/453.babeb743.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.159f8692.css",
-    "static/js/main.803d397c.js"
+    "static/css/main.53b11500.css",
+    "static/js/main.4a00cb5d.js"
   ]
 }
