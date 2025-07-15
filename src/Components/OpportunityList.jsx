@@ -96,7 +96,7 @@ const OpportunityList = ({
   }, [currentPage])
 
   return (
-    <div className={`opportunity-list ${page}`}>
+    <div className={`opportunity-list bg ${page}`}>
       <ul>
         {categories.map((category) => (
           <li key={category} className={`list-item ${category}`}>

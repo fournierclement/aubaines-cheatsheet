@@ -1,4 +1,5 @@
 import './App.css';
+import './bg.css';
 import BottomMenu from './Components/BottomMenu';
 import { useState } from 'react';
 import EPages from './Components/EPages';
@@ -9,12 +10,14 @@ function App() {
   const [category, setCategory] = useState("Tous");
   return (
     <div className="App">
-      <OpportunitieSwipe
-        page={page}
-        setPage={setPage}
-        currentCategory={category}
-        setCurrentCategory={setCategory}
-      />
+      <div className={`page bg ${page}`}>
+        <OpportunitieSwipe
+          page={page}
+          setPage={setPage}
+          currentCategory={category}
+          setCurrentCategory={setCategory}
+        />
+      </div>
       <BottomMenu
         page={page}
         setPage={setPage}

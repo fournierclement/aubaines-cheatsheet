@@ -2,25 +2,11 @@
   background-color: white;
 }
 
-
-.opportunity-list.Feu {
-  background-color: rgb(255, 150, 150);
-}
-
-.opportunity-list.Eau {
-  background-color: rgb(150, 150, 255);
-}
-
-.opportunity-list.Air {
-  background-color: rgb(200, 200, 200);
-}
-
-.opportunity-list.Terre {
-  background-color: rgb(190, 152, 101);
-}
-
-.opportunity-list.Vide {
+.opportunity-list.bg.Vide {
   background-color: white;
+  filter: invert(1);
+}
+.opportunity-list.bg.Vide .Tous {
   filter: invert(1);
 }
 
@@ -30,8 +16,6 @@
   /* Ajoute un séparateur sous chaque en-tête de catégorie */
   padding-bottom: 5px;
   margin-bottom: 5px;
-  position: sticky;
-  top: 0px;
 }
 
 .opportunity-list .list-item h2 {

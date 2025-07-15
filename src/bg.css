@@ -1,0 +1,19 @@
+.bg.Feu {
+  background-color: rgb(255, 150, 150);
+}
+
+.bg.Eau {
+  background-color: rgb(150, 150, 255);
+}
+
+.bg.Air {
+  background-color: rgb(200, 200, 200);
+}
+
+.bg.Terre {
+  background-color: rgb(190, 152, 101);
+}
+
+.bg.Vide {
+  background-color: black;
+}

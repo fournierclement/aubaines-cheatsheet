@@ -19,7 +19,7 @@ const BottomMenu = ({
       {Object.values(EPages).map((pageKey) => (
         <button
           key={pageKey}
-          className={`menu-icon ${page === pageKey ? 'active' : ''}`}
+          className={`menu-icon ${page === pageKey ? 'active' : ''} bg ${pageKey}`}
           onClick={() => setPage(pageKey)}
           title={pageKey}
         >
